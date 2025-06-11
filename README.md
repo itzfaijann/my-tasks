@@ -53,5 +53,9 @@ A minimal and beautiful task management app built using **React Native** and **E
 | `react-native-vector-icons` | ^9.x.x | Delete icon (Material Icons) |
 | `react-native-size-matters` | ^0.4.x | Responsive scaling |
 
+## 🔗 GitHub Repository
+
+[👉 Click here to view the project on GitHub](https://github.com/itzfaijann/my-tasks)
+
 ---
 
