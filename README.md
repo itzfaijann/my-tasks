@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# 📝 My Tasks - React Native (Expo) App
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -26,25 +26,32 @@ In the output, you'll find options to open the app in a
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## Get a fresh project
+# 📝 My Tasks - React Native (Expo) App
 
-When you're ready, run:
+A minimal and beautiful task management app built using **React Native** and **Expo**, featuring local push notifications for reminders.
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🚀 Features
 
-## Learn more
+- Add tasks with ease.
+- Mark tasks as **Complete / Incomplete**.
+- Schedule local notifications as reminders.
+- Cancel reminders when a task is completed or deleted.
+- Clean and modern UI.
+- Built with `fontSize()` and `moderateScale()` for consistent UI scaling.
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📦 Packages Used
 
-## Join the community
+| Package | Version | Purpose |
+|--------|---------|---------|
+| `expo` | ^51.x.x | React Native runtime |
+| `expo-notifications` | ^0.20.x | Local push notifications |
+| `expo-device` | ^5.x.x | Device permission checks |
+| `react-native-vector-icons` | ^9.x.x | Delete icon (Material Icons) |
+| `react-native-size-matters` | ^0.4.x | Responsive scaling |
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
